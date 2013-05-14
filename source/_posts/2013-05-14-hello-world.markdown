@@ -8,7 +8,11 @@ comments: true
 categories: 
 ---
 
-O blog dos DPUM está oficialmente no ar. Para já, este blog será o único meio de comunicação para o clube, sendo adicionadas outras plataformas em função da adesão às actividades. Vejam isto como _achievements_:
+O blog dos DPUM está oficialmente no ar.
+
+<!--more-->
+
+Para já, este blog será o único meio de comunicação para o clube, sendo adicionadas outras plataformas em função da adesão às actividades. Vejam isto como _achievements_:
 
  :symbols:                | Achievement | Prize 
 :------------------------:|:-----------:|:------------------------------------------------------:
