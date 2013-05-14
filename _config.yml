@@ -33,12 +33,19 @@ destination: public
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
-markdown: rdiscount
-rdiscount:
+markdown: redcarpet2
+redcarpet:
   extensions:
     - autolink
-    - footnotes
-    - smart
+    - tables
+    - with_toc_data
+    - strikethrough
+    - superscript
+# rdiscount:
+#   extensions:
+#     - autolink
+#     - footnotes
+#     - smart
 pygments: false # default python pygments have been replaced by pygments.rb
 
 paginate: 10          # Posts per page on the blog index
