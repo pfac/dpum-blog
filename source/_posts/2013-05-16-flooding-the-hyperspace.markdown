@@ -3,7 +3,7 @@ layout: post
 title: "Flooding the Hyperspace"
 author: pfac
 date: 2013-05-16 23:18
-published: false
+published: true
 comments: true
 categories: 
 ---
