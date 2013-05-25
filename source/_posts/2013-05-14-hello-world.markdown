@@ -1,6 +1,5 @@
 ---
 layout: post
-author: pfac
 title: "Hello World"
 date: 2013-05-14 10:22
 published: true

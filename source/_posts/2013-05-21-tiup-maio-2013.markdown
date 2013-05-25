@@ -1,0 +1,13 @@
+---
+layout: post
+title: "TIUP Maio 2013"
+date: 2013-05-21 22:22
+comments: true
+categories: 
+---
+
+Avisa-se todos os interessados que amanhã, Quarta-feira, das 17h00 às 20h00, vai decorrer mais uma etapa do _Torneio Inter-Universitário de Programação_.
+
+Estão todos convidados a participar, independentemente da inexperiência, para tal bastando aparecerem na sala 1.04 (a confirmar). É uma oportunidade para se porem à prova no ambiente de um torneio real, mas num contexto familiar e informal.
+
+Pede-se aos participantes que tragam os _code monkeys_ devidamente domesticados ou controlados por meio de açaimes, coleiras, algemas ou outros objetos restritivos.
