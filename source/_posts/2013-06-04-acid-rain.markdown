@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Acid rain, acid rain"
+date: 2013-06-04 01:04
+comments: true
+categories: 
+---
+As soluções para o problema _The Toxic Clouds of Proxima III_ acabaram de ser colocadas no [repositório](https://github.com/pfac/dpum/tree/master/problems/002-the-toxic-clouds-of-proxima-3).
+
+Foram implementadas as soluções recorrendo ao algoritmo de Flood Fill e ao algoritmo de Dijkstra. A implementação utilizando o algoritmo A* fica como desafio até à próxima sessão, caso contrário iremos usar o tempo para extender a implementação do algoritmo de Dijkstra.
+
+Nenhuma das soluções foi submetida no sistema [Mooshak](mooshak.di.uminho.pt), pelo que podem conter algum erro. Oferece-se uma :beer: a quem detectar problemas e os souber justificar.
+
+__Próxima sessão:__ Quinta-feira, 6 de Junho, 16h na sala 1.09 do DI
+
+<!--more-->
+
+Este post será brevemente alterado para incluir a descrição do algoritmo A* (ou uma ligação direta a esse post). Pede-se desde já desculpa pela falta de disponibilidade em dedicar mais horas à nobre arte da escrita de blogues.
+
+__PS:__ a [inspiração](http://www.youtube.com/watch?v=aYOLEF-N3oQ) para o título, visto que sem a entoação adequada perde a piada.
